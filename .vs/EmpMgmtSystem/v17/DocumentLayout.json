@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|c:\\madhavi\\.net\\empmgmtsystem\\empmgmtsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A1BF9-1CE1-4002-B05B-781FEB42CDD8}|EmpMgmtSystem\\EmpMgmtSystem.csproj|solutionrelative:empmgmtsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:22:39.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Program.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Program.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:13:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:07:08.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:25.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Data\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Data\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:06:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:05:21.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:04:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\appsettings.json",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\appsettings.json",
+              "RelativeToolTip": "EmpMgmtSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T13:33:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmpMgmtSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Madhavi\\.NET\\EmpMgmtSystem\\EmpMgmtSystem\\Models\\User.cs",
+              "RelativeToolTip": "EmpMgmtSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:04:46.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
